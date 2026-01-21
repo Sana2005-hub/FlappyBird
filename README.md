@@ -3,6 +3,7 @@ The game features smooth animations, real-time collision detection, score tracki
 It was built as a hands-on project to strengthen understanding of game loops, event handling, asset management, and basic game physics using Pygame.
 
 Features:
+
 (1)Smooth bird movement with gravity and jump mechanics
 
 (2)Randomly generated obstacles (pipes)
@@ -18,6 +19,9 @@ Features:
 (7)Clean and modular code structure
 
 Tech Stack-
-Language: Python;
-Library: Pygame
-Tools: Git, GitHub
+
+(1)Language: Python
+
+(2)Library: Pygame
+
+(3)Tools: Git, GitHub
