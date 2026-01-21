@@ -4,7 +4,9 @@ It was built as a hands-on project to strengthen understanding of game loops, ev
 
 Features:
 (1)Smooth bird movement with gravity and jump mechanics
+
 (2)Randomly generated obstacles (pipes)
+
 (3)Real-time collision detection
 
 (4)Score tracking system
@@ -18,5 +20,4 @@ Features:
 Tech Stack-
 Language: Python;
 Library: Pygame
-
 Tools: Git, GitHub
